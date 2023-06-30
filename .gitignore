@@ -1,0 +1,6 @@
+venv
+.idea
+.ipynb_checkpoints
+Untitled-checkpoint.ipynb
+secrets.py
+notes.txt
