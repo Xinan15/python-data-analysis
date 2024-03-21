@@ -1,0 +1,7 @@
+venv
+.idea
+.ipynb_checkpoints
+Sentiment Analysis-checkpoint.ipynb
+secrets.py
+notes.txt
+__pycache__/secrets.cpython-39.pyc
